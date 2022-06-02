@@ -4,9 +4,9 @@
 
 int main() {
     //BOOLEANOS
-    //assert(true);
-    //assert(not false);
-    //assert(not true);
+    assert(true);
+    assert(not false);
+    assert(not true);
     assert(true or false);
 
     //CHARACTERS
